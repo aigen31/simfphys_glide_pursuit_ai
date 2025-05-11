@@ -5,4 +5,4 @@ This is fork of PursuitAI Garry's Mod addon with more features and lightweight a
 [Link to the original addon](https://steamcommunity.com/sharedfiles/filedetails/?id=3469407494&searchtext=ai)
 
 ### TODO LIST
-- [] Derby mod
+- [ ] Derby mod
